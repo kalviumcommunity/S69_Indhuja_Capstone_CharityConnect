@@ -37,7 +37,7 @@ The platform offers donors the ability to choose causes based on their interests
 - **Third-Party Authentication (Google):** Users can log in with Google for easier access.
 - **JWT-Based Authentication:** Secure, stateless authentication using JSON Web Tokens.
 
-
+---
 
 ## Project Plan: 4-Week Timeline
 
